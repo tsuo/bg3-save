@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<save>
+    <version major="4" minor="0" revision="10" build="400"/>
+    <region id="UIData">
+        <node id="root">
+            <attribute id="ContainerPosition" type="fvec2">
+                <float2 x="0" y="0"/>
+            </attribute>
+        </node>
+    </region>
+</save>
