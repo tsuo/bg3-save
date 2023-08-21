@@ -6,6 +6,11 @@
             <attribute id="Version64" type="int64" value="36169534507319298"/>
             <children>
                 <node id="ConfigEntry">
+                    <attribute id="MapKey" type="FixedString" value="AnalyticsLevelEnded"/>
+                    <attribute id="Type" type="int32" value="0"/>
+                    <attribute id="Value" type="int32" value="0"/>
+                </node>
+                <node id="ConfigEntry">
                     <attribute id="MapKey" type="FixedString" value="AnalyticsSessionEnded"/>
                     <attribute id="Type" type="int32" value="0"/>
                     <attribute id="Value" type="int32" value="0"/>
