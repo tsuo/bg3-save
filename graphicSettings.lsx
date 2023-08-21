@@ -16,11 +16,6 @@
                     <attribute id="Value" type="int32" value="0"/>
                 </node>
                 <node id="ConfigEntry">
-                    <attribute id="MapKey" type="FixedString" value="CurrentSettings"/>
-                    <attribute id="Type" type="int32" value="1"/>
-                    <attribute id="Value" type="LSString" value="Custom"/>
-                </node>
-                <node id="ConfigEntry">
                     <attribute id="MapKey" type="FixedString" value="FrameCapEnabled"/>
                     <attribute id="Type" type="int32" value="0"/>
                     <attribute id="Value" type="int32" value="1"/>
